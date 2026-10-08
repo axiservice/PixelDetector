@@ -1,0 +1,8 @@
+{
+  "name": "PixelDetector - Rilevatore Tracking Pixel",
+  "description": "Strumento completo per identificare e neutralizzare tracking pixel, web beacon e spie invisibili in email e pagine web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
